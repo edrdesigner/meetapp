@@ -45,3 +45,9 @@ Esse desafio **não precisa ser entregue** e não receberá correção, mas voc�
 Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 “Não espere para plantar, apenas tenha paciência para colher”!
+
+
+https://github.com/lucas-silveira/bootcamp-meetapp-project/blob/master/src/app/controllers/MeetupController.js
+
+
+https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/master/src/app/controllers/MeetupController.js
